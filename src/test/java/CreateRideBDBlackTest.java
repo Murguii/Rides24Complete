@@ -623,6 +623,10 @@ public class CreateRideBDBlackTest {
 			testDA.close();	      
 		        }
 		   } 
+	
+	public void Test6() {
+		
+	}
 		   
 }
 
